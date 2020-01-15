@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DriverApp</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Profile</string>
+    <string name="title_notifications">OrderHistory</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_location">Map</string>
+    <string name="title_activity_maps">Map</string>
+    AIzaSyAbwZpBHdMu7vDl-GBTD7vA6G_JDW433AA
+
+    <string name="AIzaSyA03Euv7mJHvN9CxLBzJhCq_5fc6PxuzgM">google_maps_key</string>
+    AIzaSyA03Euv7mJHvN9CxLBzJhCq_5fc6PxuzgM
+</resources>

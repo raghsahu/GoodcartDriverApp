@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="text_14red_bold">
+        <item name="android:textColor">#bd2226</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:fontFamily">aileron_semibold</item>
+    </style>
+
+</resources>
